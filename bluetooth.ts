@@ -13,7 +13,7 @@ namespace bluetooth {
      * Sets a Mouse speed
      */
     //% blockId="bluetooth_mouse_set_speed"
-    //% block="mouse|set speed to x: %x, y: %y, and wheel: %wheel"
+    //% block="set speed to x %x y %y wheel %wheel"
     //% parts="bluetooth"
     //% shim=bluetooth::mouseSpeed
     //% advanced=true
@@ -25,7 +25,7 @@ namespace bluetooth {
      * Sets a Mouse button
      */
     //% blockId="bluetooth_mouse_set_button"
-    //% block="mouse|set button %button to %state"
+    //% block="set button %button to %state"
     //% parts="bluetooth"
     //% shim=bluetooth::mouseButton
     //% advanced=true
