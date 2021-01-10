@@ -1,7 +1,7 @@
 {
     "name": "bluetooth-mouse",
     "version": "0.0.2",
-    "description": "A Bluetooth Mouse service",
+    "description": "A Bluetooth Mouse service (fixed)",
     "license": "MIT",
     "dependencies": {
         "core": "*",
