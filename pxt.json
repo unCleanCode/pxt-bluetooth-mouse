@@ -1,5 +1,5 @@
 {
-    "name": "bluetooth-mouse",
+    "name": "bluetooth-mouse-fixed",
     "version": "0.0.2",
     "description": "A Bluetooth Mouse service (fixed)",
     "license": "MIT",
