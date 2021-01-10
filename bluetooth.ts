@@ -13,7 +13,8 @@ namespace bluetooth {
      * Sets a Mouse speed
      */
     //% blockId="bluetooth_mouse_set_speed"
-    //% block="set speed to x %x y %y wheel %wheel"
+    //% block="mouse|set speed to x: %x, y: %y, and wheel: %wheel"
+    //% parts="bluetooth"
     //% shim=bluetooth::mouseSpeed
     //% advanced=true
     export function setMouseSpeed(x: number, y: number, wheel: number) {
@@ -24,7 +25,8 @@ namespace bluetooth {
      * Sets a Mouse button
      */
     //% blockId="bluetooth_mouse_set_button"
-    //% block="set button %button to %state"
+    //% block="mouse|set button %button to %state"
+    //% parts="bluetooth"
     //% shim=bluetooth::mouseButton
     //% advanced=true
     export function setMouseButton(button: MouseButton, state: ButtonState) {
