@@ -1,4 +1,4 @@
-# bluetooth-mouse
+# bluetooth-mouse-fixed
 
 This PXT package allows the micro:bit to act as a Mouse peripheral.
 
@@ -44,5 +44,5 @@ icon.png : copyright By Darkone - Own work, CC BY-SA 2.5, https://commons.wikime
 
 ```package
 bluetooth
-bluetooth-mouse=github:kshoji/pxt-bluetooth-mouse
+bluetooth-mouse=github:unCleanCode/pxt-bluetooth-mouse-fixed
 ```
